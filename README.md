@@ -1,2 +1,2 @@
-# Projects
-Repository for my personal code projects
+# PDF Projects
+Repository for my personal PDF code projects
